@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(node:*)",
+      "Bash(head -20 grep -n \"checkTraitEarning\\\\|generateStaffMarket\\\\|assignRandomTraits\\\\|staffWages\\\\|staff\\\\.physio\\\\|staff\\\\.fitnessCoach\\\\|staff\\\\.assistantManager\\\\|staff\\\\.setPieceCoach\" /mnt/c/Users/danny/Desktop/test2/js/engine.js)"
+    ]
+  }
+}
